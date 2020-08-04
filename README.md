@@ -4,6 +4,7 @@
 - <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
   - University Undergraduate course
+  
 - <strong>BEng (Hons) MSDE (Dual Degree)</strong>
   - Northumbria University, United Kingdom
   - University Undergraduate course
