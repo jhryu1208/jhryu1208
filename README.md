@@ -1,10 +1,10 @@
 ### 👋 Hi I'm Jihyun 
 
 ### :mortar_board: Major
-- Manufacturing Systems Design Engineering (Dual Degree)
+- <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
   - University Undergraduate course
-- BEng (Hons) MSDE (Dual Degree)
+- <strong>BEng (Hons) MSDE (Dual Degree)</strong>
   - Northumbria University, United Kingdom
   - University Undergraduate course
 
