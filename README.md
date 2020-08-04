@@ -8,9 +8,9 @@
   - Northumbria University, United Kingdom
   - University Undergraduate course
  
- div align=center
+ <div align=center>
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jhryu1208.github.io/)](https://jhryu1208.github.io/)
- div align=center
+ <div align=center>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhryu1208@gmail.com)](mailto:jhryu1208@gmail.com)
 
 <!--
