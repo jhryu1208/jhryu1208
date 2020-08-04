@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi I'm Jihyun 
 
-### Major
+### :mortar_board: Major
 - Manufacturing Systems Design Engineering (Dual Degree)
   - Seoul National University of Science and Technology, South Korea
   - University Undergraduate course
