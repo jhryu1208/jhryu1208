@@ -1,10 +1,7 @@
-### 👋 Hi I'm Jihyun
+## 👋 Hi I'm Jihyun
 
----
 
-### :mortar_board: Major
-
----
+## :mortar_board: Major
 
 - <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
@@ -15,9 +12,7 @@
   - University Undergraduate course
  
  
-### :mailbox_with_mail: Contact
-
----
+## :mailbox_with_mail: Contact
 
  <div align=center>
   
