@@ -3,7 +3,7 @@
 👋 Hi, I am Jihyun!<br>
 My major is MSDE in SeoulTech which deals with manufacturing systems and design engineering.<br>
 And I like 🦾mechanical engineering and 🤖robotics.<br>
-Also I am interested in 📊data science and ml/dl now, and currently I have a job`Data Engineer` related to them.
+Also I am interested in 📊data science and ml/dl now, and currently currently working as a Data Engineer.
 
 ## :mortar_board: Major
 
