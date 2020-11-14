@@ -1,5 +1,9 @@
-## 👋 Hi I'm Jihyun
+## 👋 Jihyun Ryu
 
+Hello, I am Jihyun!
+My major is MSDE major in SeoulTech which deals with manufacturing systems and design engineering.
+And I like 🦾mechanical engineering and 🤖robotics.
+Currently, I am interested in 📊data science and ml/dl now, and I have a job related to them.
 
 ## :mortar_board: Major
 
