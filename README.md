@@ -1,6 +1,6 @@
-### 👋 Hi I'm Jihyun 
+### 👋 Hi I'm Jihyun !!
 
-### :mortar_board: Major
+### :mortar_board: Major!!
 - <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
   - University Undergraduate course
@@ -9,6 +9,9 @@
   - Northumbria University, United Kingdom
   - University Undergraduate course
  
+ 
+### :mailbox_with_mail: Contact Me!!
+
  <div align=center>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhryu1208@gmail.com)](mailto:jhryu1208@gmail.com)
