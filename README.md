@@ -7,6 +7,8 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 
 ## :mortar_board: Major
 
+- <strong>Sangmoon High School, Republic of Korea.</strong>
+
 - <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
   - University Undergraduate course
