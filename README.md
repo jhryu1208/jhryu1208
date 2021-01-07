@@ -20,10 +20,10 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 ## :mailbox_with_mail: Contact
 
  <div align=center>
-  
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhryu1208@gmail.com)](mailto:jhryu1208@gmail.com)
   [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://jhryu1208.github.io/)](https://jhryu1208.github.io/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryu-jihyun-a091b5182/)](https://www.linkedin.com/in/ryu-jihyun-a091b5182/) 
+
  </div>
 
