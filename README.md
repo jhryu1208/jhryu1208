@@ -16,7 +16,21 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
   - University Undergraduate course
  
  - <strong>Sangmoon High School, Republic of Korea.</strong>
+
+## :mortar_board: Major
+
+ <div align=center>
+  ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
+  ![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
+  ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
+ </div>
  
+ <div align=center>
+  ![BigQuery](http://img.shields.io/badge/-BigQuery-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
+  ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white)
+  ![ORACLE](http://img.shields.io/badge/-ORACLE-red?style=flat&logo=oracle&logoColor=white)
+ </div>
+
 ## :mailbox_with_mail: Contact
 
  <div align=center>
