@@ -17,12 +17,12 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
  
  - <strong>Sangmoon High School, Republic of Korea.</strong>
 
-## :mortar_board: Major
+## :fork_and_knife: Tech
 
  <div align=center>
-  ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
-  ![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
-  ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
+  [![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)]
+  [![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)]
+  [![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)]
  </div>
  
  <div align=center>
