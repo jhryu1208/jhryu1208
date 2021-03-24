@@ -7,6 +7,8 @@ My major is MSDE(Manufacturing Systems and Design Engineering) in SeoulTech<br>
 And I like 🦾mechanical engineering and 🤖robotics.<br>
 Also I am interested in 📊data science and ml/dl now, currently working as a Data Engineer.
 
+<br>
+
 ## :mortar_board: Major
 
 <br>
@@ -20,6 +22,8 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
   - University Undergraduate course
  
  - <strong>Sangmoon High School, Republic of Korea.</strong>
+
+<br>
 
 ## :fork_and_knife: Tech
 
@@ -41,6 +45,8 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 
 </div>
 
+<br>
+
 ## :mailbox_with_mail: Contact
 
 <br>
@@ -53,3 +59,4 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 
  </div>
 
+<br>
