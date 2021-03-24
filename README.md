@@ -48,7 +48,7 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 <div align=center>
   
   ![Autodesk](http://img.shields.io/badge/-Inventor-orange?style=flat&logo=Autodesk&logoColor=white)
-  ![Ansys](http://img.shields.io/badge/-Inventor-yellow?style=flat&logo=ansys&logoColor=white)
+  ![Ansys](http://img.shields.io/badge/-Ansys-yellow?style=flat&logo=ansys&logoColor=white)
   
 </div>
 
