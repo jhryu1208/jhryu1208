@@ -27,9 +27,9 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 
  <div align=center>
  
-  <span class="tab">![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)</span>
-  <span class="tab">![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)</span>
-  <span class="tab">![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)</span>
+  ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
+  ![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
+  ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
  
  </div>
  
