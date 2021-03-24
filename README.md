@@ -1,11 +1,15 @@
 ## 🙋‍♂️ Jihyun Ryu
 
+<br>
+
 👋 Hi, I am Jihyun!<br>
 My major is MSDE(Manufacturing Systems and Design Engineering) in SeoulTech<br>
 And I like 🦾mechanical engineering and 🤖robotics.<br>
 Also I am interested in 📊data science and ml/dl now, currently working as a Data Engineer.
 
 ## :mortar_board: Major
+
+<br>
 
 - <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
   - Seoul National University of Science and Technology, South Korea
@@ -18,6 +22,8 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
  - <strong>Sangmoon High School, Republic of Korea.</strong>
 
 ## :fork_and_knife: Tech
+
+<br>
 
  <div align=center>
  
@@ -36,6 +42,8 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 </div>
 
 ## :mailbox_with_mail: Contact
+
+<br>
 
  <div align=center>
 
