@@ -25,7 +25,7 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
 
 <br>
 
-## :fork_and_knife: Tech
+## 🛠️ Tech
 
 <br>
 
