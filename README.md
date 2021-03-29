@@ -42,6 +42,7 @@ Also I am interested in 📊data science and ml/dl now, currently working as a D
   ![BigQuery](http://img.shields.io/badge/-BigQuery-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
   ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white)
   ![ORACLE](http://img.shields.io/badge/-ORACLE-red?style=flat&logo=oracle&logoColor=white)
+  ![Redash](http://img.shields.io/badge/-Redash-red?style=flat&logo=Databricks&logoColor=white)
 
 </div>
 
