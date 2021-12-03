@@ -33,14 +33,14 @@ Now, currently working as a Data Engineer.
  <div align=center>
  
   ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
-  ![Python](http://img.shields.io/badge/-Apache Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
+  ![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
   ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white)
-  ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
  
  </div>
  
  <div align=center>
   
+  ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
   ![BigQuery](http://img.shields.io/badge/-BigQuery-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
   ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white)
   ![ORACLE](http://img.shields.io/badge/-ORACLE-red?style=flat&logo=oracle&logoColor=white)
