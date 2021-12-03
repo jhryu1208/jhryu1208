@@ -41,10 +41,16 @@ Now, currently working as a Data Engineer.
  <div align=center>
   
   ![GCP](http://img.shields.io/badge/-GCP-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
+  ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+  ![Redash](http://img.shields.io/badge/-Redash-red?style=flat&logo=Databricks&logoColor=white)
+
+ </div>
+  
+ <div align=center>
+  
   ![BigQuery](http://img.shields.io/badge/-BigQuery-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
   ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white)
   ![ORACLE](http://img.shields.io/badge/-ORACLE-red?style=flat&logo=oracle&logoColor=white)
-  ![Redash](http://img.shields.io/badge/-Redash-red?style=flat&logo=Databricks&logoColor=white)
 
 </div>
 
