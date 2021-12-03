@@ -33,7 +33,7 @@ Now, currently working as a Data Engineer.
  <div align=center>
  
   ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
-  ![Python](http://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
+  ![Python](http://img.shields.io/badge/-Apache Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColorr=white)
   ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white)
   ![GCP](http://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat&logo=Google%20Cloud&logoColor=00bfff)
  
