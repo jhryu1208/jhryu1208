@@ -26,7 +26,7 @@ Now, currently working as a Data Engineer.
 
 <br>
 
-## 🛠️ Tech
+## 🛠️ INTEREST
 
 <br>
 
