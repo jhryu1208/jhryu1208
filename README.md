@@ -14,12 +14,12 @@ Now, currently working as a Data Engineer.
 
 <br>
 
-- <strong>Manufacturing Systems Design Engineering (Dual Degree)</strong>
-  - Seoul National University of Science and Technology, South Korea
+- <strong>Seoul National University of Science and Technology, South Korea | 2017 ~ Present</strong>
+  - Manufacturing Systems and Design Engineering (Dual Degree)
   - University Undergraduate course
   
-- <strong>BEng (Hons) MSDE (Dual Degree)</strong>
-  - Northumbria University, United Kingdom
+- <strong>Northumbria University, United Kingdom | 2017 ~ Present </strong> 
+  - Manufacturing Systems and Design Engineering (Dual Degree)
   - University Undergraduate course
  
  - <strong>Sangmoon High School, Republic of Korea.</strong>
