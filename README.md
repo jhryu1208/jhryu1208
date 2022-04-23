@@ -71,7 +71,7 @@ Now, currently working as a Data Engineer.
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhryu1208@gmail.com)](mailto:jhryu1208@gmail.com)
   [![My Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://jhryu1208.github.io/)](https://jhryu1208.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryu-jihyun-a091b5182/)](https://www.linkedin.com/in/ryu-jihyun-a091b5182/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryu-jihyun-a091b5182/)](https://www.linkedin.com/in/jihyun-ryu-a091b5182/) 
 
  </div>
 
