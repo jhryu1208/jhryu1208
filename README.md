@@ -9,6 +9,7 @@
 ## :mortar_board: Major
 
 <br>
+
 - <strong>Korea University, South Korea | 2024 ~ Current</strong>
   - Industrial and Management Engineering
   - Integrated MS & PhD course
