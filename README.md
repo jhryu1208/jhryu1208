@@ -10,11 +10,11 @@
 
 <br>
 
-- <strong>Korea University, South Korea | 2024 ~ Current</strong>
+- <strong>Korea University, Republic of Korea | 2024 ~ Current</strong>
   - Industrial and Management Engineering
   - Integrated MS & PhD course
 
-- <strong>Seoul National University of Science and Technology, South Korea | 2017 ~ 2024</strong>
+- <strong>Seoul National University of Science and Technology, Republic of Korea | 2017 ~ 2024</strong>
   - Manufacturing Systems and Design Engineering (Dual Degree)
   - University Undergraduate course
   
